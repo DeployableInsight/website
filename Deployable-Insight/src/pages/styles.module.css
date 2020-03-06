@@ -12,7 +12,7 @@
 
 @media screen and (max-width: 966px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1rem;
   }
 }
 
@@ -30,6 +30,6 @@
 }
 
 .featureImage {
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
 }
