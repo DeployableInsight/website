@@ -10,14 +10,14 @@ module.exports = {
     navbar: {
       title: 'Deployable Insight',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Deployable',
         src: 'img/logo.svg',
       },
       links: [
         {to: 'docs/doc1', label: 'Docs', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/DeployableInsight',
           label: 'GitHub',
           position: 'right',
         },
@@ -43,8 +43,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Mbed Forums',
+              href: 'https://forums.mbed.com',
             },
             {
               label: 'Discord',
@@ -62,10 +62,6 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/DeployableInsight',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
